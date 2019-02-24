@@ -1,4 +1,4 @@
-const botoptions = require("./botoptions.json");
+const botoptions = require("./credentials/discord.json");
 const Discord = require("discord.js");
 const youtube = require("youtube-node");
 const ytdl = require('ytdl-core');
